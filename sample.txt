@@ -1,0 +1,7 @@
+This is a sample file used to demo the git commands.
+We are learning git VCS and creating the repo.
+Adding a new line before adding to local repo. --> 1
+updating the file post adding to the local repo -->2
+updating the file after commiting to the local repo -->3
+new changes before staging
+someother chnages incorporated
